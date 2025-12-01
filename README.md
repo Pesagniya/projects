@@ -1,0 +1,1 @@
+Small collection of python projects for study purposes.
